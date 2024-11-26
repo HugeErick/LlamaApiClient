@@ -85,4 +85,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Erick Gonzalez Parada - erick.parada101@gmail.com
 
-Project Link: [https://github.com/HugeErick/LlamaApiClient](https://github.com/yourusername/LlamaApiClient)
+Project Link: [https://github.com/HugeErick/LlamaApiClient](https://github.com/HugeErick/LlamaApiClient)
