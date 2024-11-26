@@ -28,7 +28,7 @@ LlamaApiClient is a high-performance C-based client for interacting with the Gro
 1. Install Make:
    - **Linux (Ubuntu/Debian)**: `sudo apt-get install make`
    - **macOS**: Install Xcode Command Line Tools: `xcode-select --install`
-   - **Windows**: Install [Make for Windows](http://gnuwin32.sourceforge.net/packages/make.htm)
+   - **Windows**: Install Make using [Chocolatey](https://chocolatey.org/install) to use in PowerShell 
 
 2. Open Terminal (macOS/Linux) or PowerShell (Windows)
 
